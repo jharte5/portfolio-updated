@@ -78,7 +78,8 @@ h2 {
         flex-direction: column;
     }
     #name {
-        width: 100%;
+        width: 50vw;
+        height: 90vh;
     }
     #sub-section-1 {
         display: flex;
@@ -102,5 +103,9 @@ h2 {
     }
     .pic {
         width: 75%;
+    }
+    #name {
+        width: 20vw;
+        height: 70vh;
     }
 }
